@@ -70,8 +70,6 @@ My work included:
 - Matplotlib
 - Jupyter Notebook
 
-(Add others if you genuinely used them.)
-
 ---
 
 ## Methodology
@@ -92,29 +90,20 @@ The project followed a structured analytical workflow:
 
 ### Urban Mobility Patterns
 
-*(Insert one of your best figures here.)*
 
-```markdown
-![Urban Mobility](figures/mobility_heatmap.png)
-```
+![Urban Mobility](figures/mobility_heatmap.png) 
 
 ---
 
 ### Statistical Analysis
 
-*(Insert another figure.)*
 
-```markdown
+
+
 ![Analysis](figures/correlation_matrix.png)
-```
 
 ---
 
-### Feature Engineering
-
-*(Insert another figure if appropriate.)*
-
----
 
 ## Key Skills Demonstrated
 
