@@ -88,20 +88,13 @@ The project followed a structured analytical workflow:
 
 ## Results
 
-### Urban Mobility Patterns
+### Effect of Darkness on Cyclist Activity
 
+![Effect of Darkness](figures/cyclists_darkness_effect_by_cluster.png)
 
-![Urban Mobility](figures/mobility_heatmap.png) 
+### Residual Autocorrelation Example
 
----
-
-### Statistical Analysis
-
-
-
-
-![Analysis](figures/correlation_matrix.png)
-
+![Residual ACF](figures/acf_residuals_sensor1.png)
 ---
 
 
