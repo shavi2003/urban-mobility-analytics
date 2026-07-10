@@ -1,10 +1,144 @@
-# Group 3 – Mathematical & Data Modelling (MDM)
+# Urban Mobility Analytics
 
-This repository contains the analysis for the Group 3 MDM project.
+Statistical analysis and modelling of urban mobility patterns using year-long transportation sensor datasets collected from over 100 monitoring locations.
 
-Structure:
-- notebooks/ : Jupyter notebooks for data processing and analysis
-- src/       : reusable Python functions
-- figures/   : exported figures
-- reports/   : written report drafts
-- data/      : raw data 
+---
+
+## Overview
+
+This project was completed as part of the MEng Engineering Mathematics programme at the University of Bristol.
+
+The objective was to investigate urban mobility patterns using large-scale transportation datasets by applying data preprocessing, feature engineering, exploratory data analysis and statistical modelling techniques. The project analysed temporal and behavioural travel patterns to generate quantitative insights into urban transportation systems.
+
+---
+
+## My Contributions
+
+This repository showcases my individual contributions to a collaborative university project.
+
+My work included:
+
+- Developing data preprocessing pipelines
+- Engineering predictive and temporal features
+- Exploratory data analysis
+- Statistical analysis and interpretation
+- Data visualisation
+- Quantitative analysis of transportation datasets
+- Documentation and reporting
+
+---
+
+## Project Objectives
+
+- Analyse year-long transportation datasets
+- Investigate mobility behaviour across different locations
+- Explore relationships between transportation, weather and contextual variables
+- Generate meaningful statistical insights
+- Support evidence-based interpretation of urban mobility patterns
+
+---
+
+## Repository Structure
+
+```text
+.
+├── data/
+│   ├── given/
+│   ├── weather/
+│   ├── context/
+│   ├── wards/
+│   └── surveys/
+│
+├── notebooks/
+│
+├── src/
+│
+├── figures/
+│
+├── reports/
+│
+└── README.md
+```
+
+---
+
+## Technologies
+
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Jupyter Notebook
+
+(Add others if you genuinely used them.)
+
+---
+
+## Methodology
+
+The project followed a structured analytical workflow:
+
+1. Data collection and preparation
+2. Data cleaning
+3. Feature engineering
+4. Exploratory data analysis
+5. Statistical modelling
+6. Interpretation of results
+7. Visualisation and reporting
+
+---
+
+## Results
+
+### Urban Mobility Patterns
+
+*(Insert one of your best figures here.)*
+
+```markdown
+![Urban Mobility](figures/mobility_heatmap.png)
+```
+
+---
+
+### Statistical Analysis
+
+*(Insert another figure.)*
+
+```markdown
+![Analysis](figures/correlation_matrix.png)
+```
+
+---
+
+### Feature Engineering
+
+*(Insert another figure if appropriate.)*
+
+---
+
+## Key Skills Demonstrated
+
+- Data Analysis
+- Statistical Analysis
+- Mathematical Modelling
+- Feature Engineering
+- Data Processing
+- Data Visualisation
+- Scientific Computing
+- Python
+
+---
+
+## Report
+
+The complete technical report is available in:
+
+```
+reports/
+```
+
+---
+
+## Acknowledgements
+
+This repository presents my individual technical contributions to a collaborative University of Bristol project completed as part of the Engineering Mathematics programme.
