@@ -88,7 +88,12 @@ The project followed a structured analytical workflow:
 
 ## Results
 
-### Effect of Darkness on Cyclist Activity
+### Effect of Darkness on Cyclist Activity 
+
+<img width="1889" height="1407" alt="cyclists_acf_sensor_example" src="https://github.com/user-attachments/assets/2262f697-d2c1-4dea-a497-73e4159f8aea" />
+
+
+### Model Validation
 
 <img width="2367" height="1772" alt="cyclists_darkness_effect_by_cluster_clustered" src="https://github.com/user-attachments/assets/79f4c69d-fd3b-4933-a39d-2fb4591b745a" />
 
