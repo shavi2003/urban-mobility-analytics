@@ -90,11 +90,13 @@ The project followed a structured analytical workflow:
 
 ### Effect of Darkness on Cyclist Activity
 
+<img width="2367" height="1772" alt="cyclists_darkness_effect_by_cluster_clustered" src="https://github.com/user-attachments/assets/79f4c69d-fd3b-4933-a39d-2fb4591b745a" />
 
 
 ### Residual Autocorrelation Example
 
-[acf_residuals_active_combined.pdf](https://github.com/user-attachments/files/29918682/acf_residuals_active_combined.pdf)<img width="2367" height="1772" alt="cyclists_darkness_effect_by_cluster_clustered" src="https://github.com/user-attachments/assets/72f7a2c9-8a46-4761-a5d0-6b9d6f437a11" />
+<img width="1250" height="971" alt="acf_residuals_active_combined" src="https://github.com/user-attachments/assets/7e892fb2-47de-4b67-b52b-23c98b796abc" />
+
 
 ---
 
